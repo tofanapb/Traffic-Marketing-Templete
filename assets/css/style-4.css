@@ -1,0 +1,44 @@
+.website-form {
+	margin-top: 20px;
+}
+.website-form input {
+	background-color: #073B4C;
+	border-color: #073B4C;
+	color: #fff;
+	margin-right: 20px;
+	width: 25%;
+}
+.website-form input[type="submit"] {
+	width: 14%;
+	background: #06D6A0;
+}
+
+.padding-top-80 .read-more-btn {
+	color: #4FE1BB;
+}
+.section-padding.padding-top-0 {
+	padding-top: 0;
+}
+.footer-area.home-4  {
+	background: #073B4C;
+}
+.footer-area.home-4 h4 {
+	color: #fff;
+}
+.footer-area.home-4 ul li a {
+	color: #ddd;
+}
+.footer-area.home-4 ul li a:hover {
+	color: #06D6A0;
+}
+.social.home-4 h4 {
+	margin-bottom: 30px;
+} 
+.social.home-4 .email-subscribe input[type="submit"] {
+	margin-left: -5px;
+	background: #06D6A0;
+}
+.copyright-area.home-4 {
+	background: #0F2E38;
+	color: #fff;
+}

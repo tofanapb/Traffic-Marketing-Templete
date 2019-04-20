@@ -1,0 +1,53 @@
+.hero-area {
+	background-image: url(../image/img/hero-bg.png);
+	background-position: center;
+	background-size: cover;
+}
+.hero-left {
+	line-height: 2;
+	padding: 90px 0;
+}
+.hero-left h1 {
+	color: #fff;
+	font-size: 45px;
+}
+.hero-left p {
+	color: #fff;
+	font-size: 15px;
+}
+.boxed-btn.home-2 {
+	background: #06D6A0;
+}
+.team-img {
+	width: 80%;
+}
+.team-text h3 {
+	font-size: 21px;
+	margin-bottom: 30px;
+}
+.team-text .boxed-btn {
+    background: #06D6A0;
+	margin-top: 20px;
+}
+.team-text {
+	padding-top:20px;
+}
+.padding-top-0 {
+    padding-top: 0;
+	padding-bottom: 80px;
+}
+.footer-text-logo img {
+	margin-bottom: 30px;
+}
+.social-link-2 ul {
+	list-style: none;
+	text-align: left;
+	margin: 0;
+	padding: 0;
+}
+.social-link-2 ul li {
+	padding-bottom: 10px;
+}
+.social-link-2 ul li a:hover {
+	color: #EF486F;
+}

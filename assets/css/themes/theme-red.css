@@ -1,0 +1,9 @@
+.boxed-btn, input[type="submit"], button[type="submit"], .single-case-study .single-case-wrapper, .owl-dot.active, .single-case-wrapper:after, .cases-text-item:after, .single-case-study.home-3 .single-case-wrapper:after{
+	background:#EE466E!important;
+}
+.mainmenu ul li a:hover, .offcanvas-menu ul li a:hover, .servics-item:hover .servics-btn, .servics-item:hover h2, .servics-item:hover .servics-icon, .footer-area ul li a:hover {
+    color: #EE466E!important;
+}
+.servics-item:hover, .single-pricing-item:hover, .single-pricing-item:hover .pricing-table {
+	border-color: #EE466E!important;
+}

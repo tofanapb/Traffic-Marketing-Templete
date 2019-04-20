@@ -1,0 +1,87 @@
+.header-area.header-abbulate .mainmenu ul li a {
+	color: #fff;
+}
+.header-area.header-abbulate .mainmenu ul li a:hover {
+	color: #888;
+}
+.header-area.header-abbulate .mainmenu ul li > ul li a {
+	color: #333;
+}
+.header-area.header-abbulate .mainmenu ul li > ul li a:hover {
+	color: #fff;
+}
+.header-area.header-abbulate .mainmenu ul li a:hover .mainmenu ul li > ul li{
+	display: block;
+}
+.single-slide-item:after {
+	position: absolute;
+	content: "";
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	background: #1992E1;
+	z-index: -1;
+	opacity: .7;
+}
+.form-seo input {
+	width: 26%;
+	margin-right:2%;
+}
+.form-seo input[type="submit"] {
+	width: 14%;
+	margin-right: 0%;
+	background: #06D6A0;
+}
+.form-seo {
+	margin-bottom: 80px;
+}
+.team-img {
+	width: 80%;
+}
+.team-text .boxed-btn {
+    background: #06D6A0;
+}
+
+.footer-area.home-3 {
+	background: #FBFBFB;
+	border-bottom: 1px solid #F8F8F8;
+}
+
+.home-3 .link ul li {
+	float: left;
+	padding-left: 30px;
+}
+.home-3 .link ul li a:hover {
+	color: #06D6A0;
+}
+
+.home-3 .social-link-3 ul li {
+	display: inline-block;
+	padding-left: 30px;
+	list-style: none;
+}
+.home-3 .social-link-3 ul li a {
+	color: #373737;
+}
+.home-3 .social-link-3 {
+	margin: 5px;
+}
+.home-3 .link {
+	margin-top: 7px;
+}
+.copyright-area.home-3 {
+	background: #FBFBFB;
+}
+
+.copyright-area.home-3 .copyright-link ul li {
+	display: inline-block;
+	list-style: none;
+	padding-left: 30px;
+}
+.home-3 .copyright-link ul li a {
+	color: #B1B1B1;
+}
+.home-3 .copyright-link ul li a:hover {
+	color: #06D6A0;
+}
